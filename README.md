@@ -1,2 +1,2 @@
 # hello-world
-My first repository.
+My name is Justin and im a third year computer science student.
